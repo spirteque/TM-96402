@@ -1,0 +1,4 @@
+PROJEKT SELEKTORA:
+ID: scrollView
+TAG: androidx.core.widget.NestedScrollView
+STATUS: ZALICZONE
